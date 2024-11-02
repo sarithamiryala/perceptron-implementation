@@ -13,4 +13,19 @@ conda create --prefix ./env python=3.9 -y
 
 
 # activating the enviornment
-conda activate ./env
+'''
+conda activate ./env 
+'''
+
+
+# git commands 
+'''
+git add . 
+git commit -m "message"
+git push origin main 
+'''
+
+# create a folder 
+'''
+ mkdir Research_env
+ '''
